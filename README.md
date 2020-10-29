@@ -137,3 +137,4 @@ To run all of the tests, you can run the following command from the root of this
 repo:
 
 `yarn presubmit`
+# coco-ssd-demo
